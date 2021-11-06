@@ -28,4 +28,4 @@ sharing_image: share.jpg
 half_side: right
 
 # Full layout.
-full_text_position: right # left, right or center
+full_text_position: center # left, right or center
