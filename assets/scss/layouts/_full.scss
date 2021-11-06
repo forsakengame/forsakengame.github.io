@@ -16,7 +16,7 @@
   &__image {
     background-size: cover;
     background-position: center;
-    @include responsivebackground("half-sm.png", "half-md.png", "half-lg.png");
+    @include responsivebackground("half-sm.jpg", "half-md.jpg", "half-lg.jpg");
     min-height: 50vh;
 
     @include min(md) {

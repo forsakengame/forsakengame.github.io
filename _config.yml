@@ -5,11 +5,11 @@ title: The Forsaken
 description: The pilgrims walk the long road together.
 
 # Content.
-content: The Forsaken is a Post-Apocalyptic Roleplaying game.
+content: The Forsaken is a free Post-Apocalyptic Roleplaying game.
 
 # Links.
 social:
-  - platform: Download Forsaken
+  - platform: Download
     url: google.com
   - platform: Twitter
     url: https://twitter.com/forsakengamedev
@@ -25,7 +25,7 @@ sharing_image: share.jpg
 #### LAYOUT OPTIONS #####
 
 # Half layout.
-half_side: right
+half_side: left
 
 # Full layout.
-full_text_position: center # left, right or center
+full_text_position: left # left, right or center
