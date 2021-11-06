@@ -9,14 +9,14 @@ content: The Forsaken is a Post-Apocalyptic Roleplaying game.
 
 # Links.
 social:
-  - platform: github
-    url: https://github.com/brianmaierjr
-  - platform: facebook
-    url: https://facebook.com/brianmaierjr
-  - platform: twitter
-    url: https://twitter.com/brianmaierjr
-  - platform: linkedin
-    url: brianmaierjr
+  - platform: Download Forsaken
+    url: google.com
+  - platform: Twitter
+    url: https://twitter.com/forsakengamedev
+  - platform: Email
+    url: forsakengame@protonmail.com
+  - platform: Github
+    url: https://github.com/forsakengame
 
 # General settings.
 markdown: kramdown
