@@ -17,11 +17,11 @@ download:
     url: https://google.com
     
 social:
-  - platform: Twitter
+  - platform: Twitter | @forsakengamedev
     url: https://twitter.com/forsakengamedev
-  - platform: Github
+  - platform: Github | /forsakengame
     url: https://github.com/forsakengame
-  - platform: Email
+  - platform: Email | forsakengame@protonmail.com
     url: email:forsakengame@protonmail.com
 
 # General settings.
