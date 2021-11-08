@@ -8,13 +8,15 @@ description: The Forsaken is a free Post-Apocalyptic Roleplaying game.
 content: The Forsaken is a free Post-Apocalyptic Roleplaying game.
 
 # Links.
-social:
+download:
   - platform: Windows Download
     url: https://google.com
   - platform: Mac Download
     url: https://google.com
   - platform: Linux Download
     url: https://google.com
+    
+social:
   - platform: Twitter
     url: https://twitter.com/forsakengamedev
   - platform: Github
