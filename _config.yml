@@ -9,18 +9,18 @@ content: The Forsaken is a free Post-Apocalyptic Roleplaying game.
 
 # Links.
 social:
-  - platform: Download for Windows
+  - platform: Windows Download
     url: https://google.com
-  - platform: Download for Mac
+  - platform: Mac Download
     url: https://google.com
-  - platform: Download for Linux
+  - platform: Linux Download
     url: https://google.com
   - platform: Twitter
     url: https://twitter.com/forsakengamedev
-  - platform: Email
-    url: forsakengame@protonmail.com
   - platform: Github
     url: https://github.com/forsakengame
+  - platform: Email
+    url: email:forsakengame@protonmail.com
 
 # General settings.
 markdown: kramdown
